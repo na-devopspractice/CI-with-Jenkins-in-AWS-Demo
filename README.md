@@ -1,2 +1,2 @@
 # CI-with-Jenkins-in-GCP-Demo
-Test CI and CD With Jenkins, Maven, Sonarqube and Nexus
+Test CI and CD with Interaction between Jenkins, Maven, Sonarqube, Nexus and Tomcat.
